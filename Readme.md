@@ -14,6 +14,7 @@ to run : <i>go run main.go</i>
 </p>
 <p>
 vs config:
+<br/>
 <b>
 {
     // Use IntelliSense to learn about possible attributes.
@@ -30,5 +31,6 @@ vs config:
         }
     ]
 }
+</br>
 </b>
 <p>
